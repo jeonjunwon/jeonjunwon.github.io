@@ -1,11 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://joey1170.github.io/sitemap.xml
-Disallow : /single.html
-
-
-
-
-
-
+Disallow: /
